@@ -1,23 +1,16 @@
-# Proiect individual
+# Lucrare individuală Nr. 1 – VLC media player
 
-Acesta este repository-ul meu creat pentru studiul individual la tema
-**Utilizarea sistemelor de control al versiunilor (Git) pentru gestionarea modificărilor în proiecte**.
-
-Autor: *[Numele tău]*
+Repozitoriu creat pentru studiul individual la disciplina
+**Planificarea aplicațiilor desktop**.
 
 ## Despre proiect
-Scopul proiectului este de a învăța să folosesc Git și GitHub pentru a urmări
-modificările făcute într-un proiect și pentru a colabora cu alte persoane.
+Proiectul conține documentația și planificarea lucrării.
+Aplicația studiată este **VLC media player**.
 
-## Structura repository-ului
-- `README.md` - descrierea proiectului (acest fișier)
-- `planificare.md` - planificarea dezvoltării: etape, resurse, termene
+## Structura repozitoriului
+- `README.md` – descrierea proiectului
+- `planificare.md` – etapele, resursele și termenele
 
-## Noțiuni de bază
-- **Git** - sistem de control al versiunilor, ține istoricul modificărilor.
-- **GitHub** - platformă online pentru stocarea și partajarea proiectelor Git.
-- **Repository** - folderul proiectului, cu tot istoricul lui.
-- **Commit** - o salvare a modificărilor, însoțită de un mesaj.
+## Autor
+Bulat Vladimir, grupa P-2522
 
-## Colaborarea pe GitHub
-Colaborarea se face prin: *fork*, *branch*, *pull request* și *issues*.
