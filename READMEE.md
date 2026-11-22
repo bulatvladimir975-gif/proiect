@@ -3,7 +3,7 @@
 Acesta este repository-ul meu creat pentru studiul individual la tema
 **Utilizarea sistemelor de control al versiunilor (Git) pentru gestionarea modificărilor în proiecte**.
 
-Autor: *[Numele tău]*
+Autor: *[Bulat Vladimir]*
 
 ## Despre proiect
 Scopul proiectului este de a învăța să folosesc Git și GitHub pentru a urmări
